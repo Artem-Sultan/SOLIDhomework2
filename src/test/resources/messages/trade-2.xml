@@ -1,0 +1,6 @@
+<transaction id="12342-fsdfdsf-342314d" date="2015-03-29" time="14:41">
+    <type>FxOption</type>
+    <instrument>EURUSD</instrument>
+    <amounts left="1000" right="1120" strike="1.12" price="15" priceCcy="EUR"/>
+    <expiration-date>2015-12-27</expiration-date>
+</transaction>
