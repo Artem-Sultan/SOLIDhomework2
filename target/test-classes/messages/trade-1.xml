@@ -1,0 +1,6 @@
+<transaction id="12342-fsdfdsf-342314d" date="2015-01-25" time="14:41">
+    <type>Fx</type>
+    <instrument>EURUSD</instrument>
+    <amounts left="1000" right="1120" rate="1.12"/>
+    <settlement-date>2015-01-27</settlement-date>
+</transaction>
